@@ -1,2 +1,2 @@
 # new-repo
-Owner - Swetank Singh RAna
+Owner - Swetank Singh Rana
